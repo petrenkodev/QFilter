@@ -1,0 +1,4 @@
+/bin/debug/
+/build/
+*.pro.user
+*.pro.user.*
