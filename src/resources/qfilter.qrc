@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/inons">
+        <file>qfilter.ico</file>
+    </qresource>
+    <qresource prefix="/doc">
+        <file>manual.html</file>
+    </qresource>
+</RCC>
